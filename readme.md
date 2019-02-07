@@ -8,6 +8,8 @@
 
 626d2af  # install react
 
+2dbfdab `ls` # initialize all defaults in package.json
+
 xxx
 
 ### Installation
