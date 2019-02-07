@@ -6,9 +6,9 @@
 
 ### Requirements
 
-626d2af  # install react
+626d2af `npm install react` # install react
 
-2dbfdab `ls` # initialize all defaults in package.json
+2dbfdab `npm init -y` # initialize all defaults in package.json
 
 xxx
 
