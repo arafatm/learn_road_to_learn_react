@@ -6,6 +6,8 @@
 
 ### Requirements
 
+626d2af  # install react
+
 xxx
 
 ### Installation
