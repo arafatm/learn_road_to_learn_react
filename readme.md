@@ -12,17 +12,31 @@
 
 0d04276 `mkdir throwaway readme.md
 
+readme.md
+
 xxxreadme.md
+
+readme.md
 
 xxx cd throwaway readme.md
 
+readme.md
+
 xxxreadme.md
+
+readme.md
 
 xxx npm init -y readme.md
 
+readme.md
+
 xxxreadme.md
 
+readme.md
+
 xxx npm install react` # test installing react
+
+readme.md
 
 readme.md
 
