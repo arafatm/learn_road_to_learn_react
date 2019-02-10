@@ -12,13 +12,9 @@
 
 0d04276 `mkdir throwaway readme.md`
 
-readme.md
-
-$msg
-
-$msg
-
 [:ship: e1391e8](https://github.com/url/e1391e8) readme.md
+
+[:ship: 56636c0](https://github.com//56636c0) readme.md
 
 xxx
 
