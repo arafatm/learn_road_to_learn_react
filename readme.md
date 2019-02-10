@@ -10,7 +10,21 @@
 
 2dbfdab `npm init -y` # initialize all defaults in package.json
 
-0d04276 `mkdir throwaway xxxxxx cd throwaway xxxxxx npm init -y xxxxxx npm install react` # test installing react
+0d04276 `mkdir throwaway readme.md
+
+xxxreadme.md
+
+xxx cd throwaway readme.md
+
+xxxreadme.md
+
+xxx npm init -y readme.md
+
+xxxreadme.md
+
+xxx npm install react` # test installing react
+
+readme.md
 
 xxx
 
