@@ -12,11 +12,7 @@
 
 0d04276 `mkdir throwaway readme.md`
 
-[:ship: 4e530d5](https://github.com/arafatm/learn_road_to_learn_react/commit/4e530d5) readme.md
-
-[:ship: 07a6820](https://github.com/arafatm/learn_road_to_learn_react/commit/07a6820) readme.md
-
-[:ship: 817923d](https://github.com/arafatm/learn_road_to_learn_react/commit/817923d) readme.md
+[:ship: 1c14e68](https://github.com/arafatm/learn_road_to_learn_react/commit/1c14e68) readme.md
 
 xxx
 
