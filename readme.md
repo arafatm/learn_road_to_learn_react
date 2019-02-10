@@ -14,6 +14,8 @@
 
 readme.md
 
+$msg
+
 xxx
 
 ### Installation
