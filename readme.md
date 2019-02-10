@@ -10,33 +10,7 @@
 
 2dbfdab `npm init -y` # initialize all defaults in package.json
 
-0d04276 `mkdir throwaway readme.md
-
-readme.md
-
-xxxreadme.md
-
-readme.md
-
-xxx cd throwaway readme.md
-
-readme.md
-
-xxxreadme.md
-
-readme.md
-
-xxx npm init -y readme.md
-
-readme.md
-
-xxxreadme.md
-
-readme.md
-
-xxx npm install react` # test installing react
-
-readme.md
+0d04276 `mkdir throwaway readme.md`
 
 readme.md
 
