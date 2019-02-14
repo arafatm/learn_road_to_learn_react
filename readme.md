@@ -47,6 +47,8 @@ In ES6, use `let` and `const` instead of `var`
 - `const` cannot be reassigned or redeclared
 - `let` can be modified
 
+helloWorld with `const` [:ship: 8e03f99](https://github.com/arafatm/learn_road_to_learn_react/commit/8e03f99)
+
 xxx
 ### React DOM
 ### Hot Module Replacement
