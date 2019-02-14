@@ -39,9 +39,15 @@ instantiates a React ES6 class component
 
 Exercise: render a more complex object [:ship: c535c78](https://github.com/arafatm/learn_road_to_learn_react/commit/c535c78)
 
-xxx
+- [ ] Read [React Components, Elements, and Instances](https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html)
 
 ### ES6 const and let
+
+In ES6, use `let` and `const` instead of `var` 
+- `const` cannot be reassigned or redeclared
+- `let` can be modified
+
+xxx
 ### React DOM
 ### Hot Module Replacement
 ### Complex Java Script in JSX
