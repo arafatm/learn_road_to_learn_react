@@ -35,8 +35,6 @@ instantiates a React ES6 class component
 
 `render()` returns an element
 
-04e0cef rm readme.mdr
-
 `var helloWorld` [:ship: 0f301de](https://github.com/arafatm/learn_road_to_learn_react/commit/0f301de)
 
 xxx

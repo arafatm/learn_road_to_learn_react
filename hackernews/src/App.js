@@ -3,10 +3,10 @@ import './App.css';
 
 class App extends Component {
   render() {
-		var helloWorld = 'Welcome to the Road to learn React';
+		var person = { first: "Leroy", last: "Jenkins" }
     return (
       <div className="App">
-        <h2>{helloWorld}</h2>
+        <h2>Welcome, {person.first} {person.last}</h2>
       </div>
     );
   }
