@@ -16,14 +16,29 @@
 
 ### Zero-Configuration Setup
 
-`npm install -g create-react-app` # react bootstrapper
-[:ship: e427457](https://github.com/arafatm/learn_road_to_learn_react/commit/e427457) 
+`npm install -g create-react-app` # react bootstrapper [:ship: e427457](https://github.com/arafatm/learn_road_to_learn_react/commit/e427457) 
 
-[:ship: 98c70ab](https://github.com/arafatm/learn_road_to_learn_react/commit/98c70ab) `create-react-app hackernews` # Bootstrap a react app
+`create-react-app hackernews` # Bootstrap a react app [:ship: 98c70ab](https://github.com/arafatm/learn_road_to_learn_react/commit/98c70ab) 
+
+`npm start` # runs the app in http://localhost:3000
+
+`npm test`
+
+`npm run build` # builds app for production
+
+### Introduction to JSX
+
+
+`class App extends Component` in
+[src/App.js](https://github.com/arafatm/learn_road_to_learn_react/blob/98c70abb8e6b60d2132989fb2e7c0f14bfef38c0/hackernews/src/App.js#L5)
+instantiates a React ES6 class component
+
+`render()` returns an element
+
+04e0cef rm readme.mdr
 
 xxx
 
-### Introduction to JSX
 ### ES6 const and let
 ### React DOM
 ### Hot Module Replacement
