@@ -16,6 +16,8 @@
 
 ### Zero-Configuration Setup
 
+[:ship: e427457](https://github.com/arafatm/learn_road_to_learn_react/commit/e427457) `npm install -g create-react-app` # react bootstrapper
+
 xxx
 
 ### Introduction to JSX
