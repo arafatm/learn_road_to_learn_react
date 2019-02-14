@@ -19,6 +19,8 @@
 `npm install -g create-react-app` # react bootstrapper
 [:ship: e427457](https://github.com/arafatm/learn_road_to_learn_react/commit/e427457) 
 
+[:ship: 98c70ab](https://github.com/arafatm/learn_road_to_learn_react/commit/98c70ab) `create-react-app hackernews` # Bootstrap a react app
+
 xxx
 
 ### Introduction to JSX
