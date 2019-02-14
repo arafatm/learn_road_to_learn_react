@@ -49,9 +49,18 @@ In ES6, use `let` and `const` instead of `var`
 
 helloWorld with `const` [:ship: 8e03f99](https://github.com/arafatm/learn_road_to_learn_react/commit/8e03f99)
 
-xxx
 ### React DOM
+
+`ReactDom.render` in [src/index.js](https://github.com/arafatm/learn_road_to_learn_react/blob/master/hackernews/src/index.js#L7)
+replaces a DOM node in your HTML with JSX.
+
+The `getElementById('root')` finds the DOM element in [public/index.html](https://github.com/arafatm/learn_road_to_learn_react/blob/master/hackernews/public/index.html#L29)
+
 ### Hot Module Replacement
+
+**HMR** is a way to immediately render code change without refreshing the entire page, which is the default.
+
+xxx
 ### Complex Java Script in JSX
 ### ES6 Arrow Functions 
 ### ES6 Classes 
