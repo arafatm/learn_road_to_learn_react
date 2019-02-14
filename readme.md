@@ -37,6 +37,8 @@ instantiates a React ES6 class component
 
 `var helloWorld` [:ship: 0f301de](https://github.com/arafatm/learn_road_to_learn_react/commit/0f301de)
 
+Exercise: render a more complex object [:ship: c535c78](https://github.com/arafatm/learn_road_to_learn_react/commit/c535c78)
+
 xxx
 
 ### ES6 const and let
