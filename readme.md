@@ -28,7 +28,6 @@
 
 ### Introduction to JSX
 
-
 `class App extends Component` in
 [src/App.js](https://github.com/arafatm/learn_road_to_learn_react/blob/98c70abb8e6b60d2132989fb2e7c0f14bfef38c0/hackernews/src/App.js#L5)
 instantiates a React ES6 class component
