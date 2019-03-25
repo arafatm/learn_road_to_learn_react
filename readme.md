@@ -59,10 +59,17 @@ The `getElementById('root')` finds the DOM element in [public/index.html](https:
 
 **HMR** is a way to immediately render code change without refreshing the entire page, which is the default.
 
+```javascript
+if (module.hot) {module.hot.accept();}
+```
+
 Hot Module Replacement in action [:ship: 33e9f0b](https://github.com/arafatm/learn_road_to_learn_react/commit/33e9f0b)
 
-xxx
+- [ ] Watch [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
+
 ### Complex Java Script in JSX
+
+xxx
 ### ES6 Arrow Functions 
 ### ES6 Classes 
 
